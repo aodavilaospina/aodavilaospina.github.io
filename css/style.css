@@ -15,7 +15,7 @@ header {
   background-color: rgb(0, 40, 82); /* Updated to stronger navy */
   padding: 1rem 0 0.5rem 0;
   text-align: center;
-  border-bottom: 5px solid rgb(0, 115, 153); /* Light Blue accent line */
+  border-bottom: 5px solid rgb(70, 130, 180); /* Teal accent line */
 }
 
 header h1 {
