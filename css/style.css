@@ -10,8 +10,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Libre Baskerville', serif;  /* Option 1 */
-  /* font-family: 'Lora', serif; */              /* Option 3 (all Lora) */
+  font-family: 'Lora', serif;                     /* Option 1 (all Lora) */
+  /* font-family: 'Libre Baskerville', serif; */  /* Option 2 */
 }
 
 /* === NAVBAR === */
